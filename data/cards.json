@@ -1,5 +1,56 @@
 [
     {
+        "group": "3d secure 2",
+        "logo": "visa",
+        "items": [
+            {
+                "cardnumber": "6060 0599 9998 99015",
+                "expiry": "03/2030",
+                "CVC": "Not applicable"
+            },
+            {
+                "cardnumber": "6703 4444 4444 4449",
+                "expiry": "03/2030",
+                "CVC": "Not applicable"
+            },
+            {
+                "cardnumber": "4871 0499 9999 9910",
+                "expiry": "03/2030",
+                "CVC": "737"
+            },
+            {
+                "cardnumber": "4035 5014 2814 6300",
+                "expiry": "03/2030",
+                "CVC": "737"
+            },
+            {
+                "cardnumber": "4360 0000 0100 0005",
+                "expiry": "03/2030",
+                "CVC": "737"
+            },
+            {
+                "cardnumber": "5454 5454 5454 5454",
+                "expiry": "03/2030",
+                "CVC": "737"
+            },
+            {
+                "cardnumber": "2222 4000 1000 0008",
+                "expiry": "03/2030",
+                "CVC": "737"
+            },
+            {
+                "cardnumber": "4917 6100 0000 0000",
+                "expiry": "03/2030",
+                "CVC": "737"
+            },
+            {
+                "cardnumber": "4166 6766 6766 6746",
+                "expiry": "03/2030",
+                "CVC": "737"
+            }
+        ]
+    },
+    {
         "group" : "American Express (Amex)", 
         "logo" : "amex",
         "items" : [
